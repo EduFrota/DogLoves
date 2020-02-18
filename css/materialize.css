@@ -1,0 +1,40 @@
+/* reset */
+.container {
+    max-width: 1960px;
+    width: 90%;
+    margin: 0px auto;
+}
+
+
+nav{
+    box-shadow: none;
+    background-color: white;
+        
+}
+
+/* cabeçlho */
+.nav-wrapper{
+    background-color: white;
+    align-items: center;
+    
+}
+
+.material-icons {
+    margin-left:-10px ;
+    
+}
+.nav-wrapper a{
+    color:#080D0C;
+}
+
+#nav-mobile li a{
+    font-size: 15px;
+    color: #080D0C;
+    
+}
+
+/* footer */
+.page-footer{
+    background-color: #2A2941;
+}
+
