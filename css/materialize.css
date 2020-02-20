@@ -9,9 +9,15 @@
 nav{
     box-shadow: none;
     background-color: white;
+    margin-bottom: 50px;
         
 }
-
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+    font-size: 24px;
+    margin-right: 2px;
+    
+}
 /* cabeçlho */
 .nav-wrapper{
     background-color: white;
@@ -32,6 +38,8 @@ nav{
     color: #080D0C;
     
 }
+
+/*corpo do site */
 
 /* footer */
 .page-footer{
